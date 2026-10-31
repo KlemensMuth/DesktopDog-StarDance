@@ -27,3 +27,9 @@ You´ll also notice a Dog-House on your Screen. Left-Click it <br> and the dog w
 #### Important
 The Dog Will not react to anything while in his house! <br>
 
+
+### Credits for the Sprites:
+[Treat](https://www.food4rhino.com/en/resource/dog-treat)
+House : Gemini
+Ball: Did it myself
+Dog: Forgot the Link :( but THANKS!!
