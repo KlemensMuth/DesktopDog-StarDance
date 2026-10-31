@@ -20,8 +20,6 @@ There will also be a dog treat on your screen <br> when taking it by left-clicki
 #### Important 
 If you want to stop the Treating simply let go of the treat!! <br>
 
-<img src="desktop-dog/Pic_House-GEMINI.png" alt="Picture of House" width="250">
-
 ### Dog-House
 You´ll also notice a Dog-House on your Screen. Left-Click it <br> and the dog will go inside and STAY. If you want him out <br> simply click again. The House will be placed somewhere on your screen. <br> If you´d like to move it right-click the house and drag it anywhere you like!
 #### Important
