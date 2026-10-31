@@ -29,7 +29,7 @@ The Dog Will not react to anything while in his house! <br>
 
 
 ### Credits for the Sprites:
-[Treat](https://www.food4rhino.com/en/resource/dog-treat)
-House : Gemini
-Ball: Did it myself
+[Treat](https://www.food4rhino.com/en/resource/dog-treat) <br>
+House : Gemini <br>
+Ball: Did it myself <br>
 Dog: Forgot the Link :( but THANKS!!
